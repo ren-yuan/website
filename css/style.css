@@ -1,0 +1,55 @@
+a {
+	color: #000;
+}
+
+a:hover {
+	color: #999;
+}
+
+.title-bar {
+ 	background: #fff;
+ 	padding: 0px;
+}
+
+.title-bar-title {
+	font-size: 24px;
+ 	padding: 20px 0px 20px 0px; //top right bottom left
+}
+
+.title-bar-right a {
+ 	padding: 0px 20px 0px 20px;
+}
+
+.copyright {
+	font-size: 12px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.work-title{
+	font-size: 26px;
+	font-weight: bold;
+	padding-top: 20px;
+}
+
+.work-label{
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.work-text{
+	padding-bottom: 10px;
+}
+
+.work-image{
+	padding-top: 10px;
+}
+
+.social-icon{
+	padding-right: 10px;
+}
+
+.social-icon img{
+	width: 25px;
+	height: 25px;
+}
